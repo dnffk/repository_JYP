@@ -1,2 +1,6 @@
 Hello! my name is Ju Yeon Park.
-Kumoh National Institute of Technology.
+Kit(Kumoh National Institute of Technology)
+
+Computer Sciences
+C Programming
+Object-oriented programming
